@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAspNet.Server", "CSharpAspNet.Server\CSharpAspNet.Server.csproj", "{D3B5A57A-F821-4E29-B51B-735BC21143BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpClassLib.SharedModels", "CSharpClassLib.SharedModels\CSharpClassLib.SharedModels.csproj", "{A8A2B016-9C1D-4177-8EC3-2512259AE61F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAspNet.Client", "CSharpAspNet.Client\CSharpAspNet.Client.csproj", "{BCFB04C1-EAD3-4838-B8C2-E212EAB726C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B5A57A-F821-4E29-B51B-735BC21143BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B5A57A-F821-4E29-B51B-735BC21143BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B5A57A-F821-4E29-B51B-735BC21143BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B5A57A-F821-4E29-B51B-735BC21143BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A2B016-9C1D-4177-8EC3-2512259AE61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A2B016-9C1D-4177-8EC3-2512259AE61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A2B016-9C1D-4177-8EC3-2512259AE61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A2B016-9C1D-4177-8EC3-2512259AE61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFB04C1-EAD3-4838-B8C2-E212EAB726C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFB04C1-EAD3-4838-B8C2-E212EAB726C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFB04C1-EAD3-4838-B8C2-E212EAB726C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFB04C1-EAD3-4838-B8C2-E212EAB726C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
